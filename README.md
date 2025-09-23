@@ -1,6 +1,6 @@
-# 📘 25T2-solutions  
+# 📘 25T3-solutions  
 
-### COMP2521 25T2 Tutorial Solutions  
+### COMP2521 25T3 Tutorial Solutions  
 
 This repository contains solutions for the **COMP2521 (Data Structures and Algorithms)** tutorials for **Term 1, 2025** at UNSW.  
 
@@ -9,7 +9,7 @@ This repository contains solutions for the **COMP2521 (Data Structures and Algor
 The repository is organised by **week**, with each week's solutions in a separate folder:  
 
 ```bash
-25T2-solutions/
+25T3-solutions/
 │── w1/            # Week 1 solutions
 │── w2/            # Week 2 solutions
 │── ...
@@ -23,8 +23,8 @@ The repository is organised by **week**, with each week's solutions in a separat
 To clone this repository:  
 
 ```bash
-git clone https://github.com/ChrisWangg/25T2-solutions.git
-cd 25T2-solutions
+git clone https://github.com/ChrisWangg/25T3-solutions.git
+cd 25T3-solutions
 ```
 
 ## 📜 Notes
