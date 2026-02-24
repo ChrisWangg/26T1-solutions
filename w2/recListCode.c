@@ -452,7 +452,7 @@ bool listIsSorted(struct node *l) {
     if (l == NULL || l->next == NULL)
         return true;
     if (l->value > l->next->value) return false;
-    return true;
+    return listIsSorted(l->next);
 }
 
 // Recursively delete the first instance of a value from the list
